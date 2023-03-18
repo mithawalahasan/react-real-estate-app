@@ -432,4 +432,25 @@ export const housesData = [
       phone: "0123 456 78910",
     },
   },
+  {
+    id: 18,
+    type: "Apartament",
+    name: "Apartament 18",
+    description:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.",
+    image: Apartment6,
+    imageLg: Apartment6Lg,
+    country: "United States",
+    address: "84 Woodland St. Cocoa, FL 32927",
+    bedrooms: "3",
+    bathrooms: "1",
+    surface: "1200 sq ft",
+    year: "2010",
+    price: "135000",
+    agent: {
+      image: Agent6,
+      name: "Karen Sorensen",
+      phone: "0123 456 78910",
+    },
+  },
 ];
