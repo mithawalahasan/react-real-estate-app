@@ -433,9 +433,9 @@ export const housesData = [
     },
   },
   {
-    id: 18,
+    id: 19,
     type: "Apartament",
-    name: "Apartament 18",
+    name: "Apartament 19",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.",
     image: Apartment6,
