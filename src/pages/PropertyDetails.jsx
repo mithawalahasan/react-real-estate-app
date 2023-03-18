@@ -92,14 +92,6 @@ function PropertyDetails() {
             </form>
           </div>
         </div>
-        <div className="text-center">
-          <Link
-            to="/"
-            className="max-w-[20px] bg-violet-700 p-3 hover:bg-violet-600 text-white transition"
-          >
-            Back to Home
-          </Link>
-        </div>
       </div>
     </section>
   );
